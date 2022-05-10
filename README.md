@@ -1,6 +1,6 @@
 -👋Hola soy @ElLoboAzul120
 
--👀Estoy interesado en crear juegos
+-👀Estoy interesado en crear juegos y páginas web
 
 -🌱Actualmente estoy aprendiendo javascript y c++
 
